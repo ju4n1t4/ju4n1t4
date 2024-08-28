@@ -46,7 +46,7 @@
   </tbody>
 </table>
 <p></p>
-<h3>Mis Últimas Publicaciones</h3>
+<h3>Mis Últimos Eventos</h3>
 <ul>
   <li><a href="https://www.linkedin.com/posts/julianaramirezarenas_ulibro2024-laingenieraedanomuerde-activity-7234197356802420736-r0kA?utm_source=share&utm_medium=member_desktop="><b>La Ingeniería No     Muerde</b></a><br/><i> Historias inspiradoras para triunfar en ingeniería. </i></li>
 </ul>
