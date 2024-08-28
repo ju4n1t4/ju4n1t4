@@ -1,12 +1,22 @@
 **<h1><a href="https://imgbb.com/"><img src="https://i.ibb.co/nrJDGpT/clapclap-e-1.gif" alt="clapclap-e-1" border="0"></a> </>¡Bienvenid@s a mi Espacio!</> </h1>**
 <a href="https://www.linkedin.com/in/julianaramirezarenas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://discord.com/channels/@ju4n1t4"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD-7289DA" height=25></a>
+
+
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fdiscord-blue?style=flat-square&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F%40ju41nit4">
+
 
 <p>Soy Juliana, Semi Senior BackEnd Developer 🇨🇴 nacida en Bucaramanga</p>
 <h3>Lenguajes en los que Programo:</h3>
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+	https://slackmojis.com/emojis/57480-discord/download
 </p>
+
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
