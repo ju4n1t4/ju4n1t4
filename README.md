@@ -25,7 +25,7 @@
 - 💻 Participante del reto [What The Hack de Microsoft y Código Facilito](https://whatthehack-cf.github.io/WhatTheHack_retos/DevOps-GitHub/) : [Solución](https://jra83containerapp.lemonmeadow-19e94271.westus.azurecontainerapps.io/)
 
 <p></p>
-<h2>Projectos</h2>
+<h2>Proyectos</h2>
 <table>
   <thead align="center">
     <tr border: none;>
