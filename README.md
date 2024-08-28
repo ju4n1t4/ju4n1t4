@@ -1,12 +1,9 @@
-**<h1><a href="https://imgbb.com/"><img src="https://i.ibb.co/nrJDGpT/clapclap-e-1.gif" alt="clapclap-e-1" border="0"></a> </>¡Bienvenid@s a mi Espacio!</> </h1>**
-<a href="https://www.linkedin.com/in/julianaramirezarenas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+**<h1><a href="https://imgbb.com/"><img src="https://i.ibb.co/nrJDGpT/clapclap-e-1.gif" alt="clapclap-e-1" border="0"></a> </>¡Hello World, Bienvenid@s a mi Espacio!</> </h1>**
+<a href="https://www.linkedin.com/in/julianaramirezarenas/"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-0e76a8" height=25></a>
 <a href="https://discord.com/channels/@ju4n1t4"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD-7289DA" height=25></a>
 
-
-
-
-<p>Soy Juliana, Semi Senior BackEnd Developer 🇨🇴 nacida en Bucaramanga</p>
-<h3>Lenguajes en los que Programo:</h3>
+<p>Soy Juliana Ramírez Arenas soy de Bucaramanga 🇨🇴. Ambassador Women TechMaker , </p>
+<h2>Lenguajes en los que Programo:</h2>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/IBM-006699">
   <img alt="Static Badge" src="https://img.shields.io/badge/IBMRationalDeveloper-4589ff">
@@ -19,8 +16,13 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
 </p>
 
+- 🔭 Actualmente estoy trabajando en [BankVision Software](https://www.bankvision.com) como Ingeniero Semi Senior de Desarrollo BackEnd
+- Pregúntame sobre **IBM Solutions <a href="https://imgbb.com/"><img src="https://i.ibb.co/hmxH66M/ibm.png" alt="ibm" border="0" height=20></a> and Python <a href="https://imgbb.com/"><img src="https://i.ibb.co/LhcX4wN/python.png" alt="python" border="0" height=20></a>** 
+- Conocimientos con Despliegues en <a href="https://imgbb.com/"><img src="https://i.ibb.co/G0p6gcW/azure-2021.png" alt="azure-2021" border="0" height=20></a> desde <a href="https://imgbb.com/"><img src="https://i.ibb.co/vBx6Hv1/github.png" alt="github" border="0" height=20></a> y creación de Recursos en [Azure](https://portal.azure.com/)
+- Participante del reto [What The Hack de Microsoft y Código Facilito](https://whatthehack-cf.github.io/WhatTheHack_retos/DevOps-GitHub/) : [Solución](https://jra83containerapp.lemonmeadow-19e94271.westus.azurecontainerapps.io/)
 
-<h3>Open source projects</h3>
+<p></p>
+<h2>Projectos</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -38,24 +40,10 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
-<h3>My latest posts</h3>
+<p></p>
+<h3>Mis Últimas Publicaciones</h3>
 <ul>
   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
   <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
