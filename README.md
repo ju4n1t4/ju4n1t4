@@ -4,10 +4,13 @@
 <a href="https://discord.com/channels/@ju4n1t4"><img alt="Static Badge" src="https://img.shields.io/badge/DISCORD-7289DA" height=25></a>
 
 <h2>Quién Soy?</h2>
-<p align="center">Juliana Ramírez Arenas nacida en Bucaramanga 🇨🇴, Ambassador Women TechMaker </p>
+<h3><p align="center">⭐️ Juliana Ramírez Arenas ⭐️</p></h3>
+<p align="center">Colombiana 🇨🇴 | BackEnd Developer | Fintech | Ambassador Women Techmakers | IBM Developer</p>
+<p align="center">Con más de once años de experiencia en aplicaciones IBM, he desarrollado aplicaciones en COBOL, RPG, RPGLE y FREEFORM, centradas en los módulos de Cartera Activa, Pasiva y Depósitos. <p>Mi compromiso se centra en aportar soluciones innovadoras y efectivas, optimizando los procesos financieros con la ayuda de metodologías ágiles y herramientas de Azure DevOps Services.</p>
+<p>En mi trayectoria destaco por mi liderazgo y habilidades analíticas, fundamentales para resolver problemas complejos y contribuir al éxito de los proyectos. La colaboración con mi equipo ha permitido entregar productos tecnológicos que generan valor en la industria bancaria. Me motiva ser parte de la evolución digital en el sector financiero y continuar aplicando mi experiencia para enfrentar y superar los desafíos tecnológicos futuros.</p>
 <h2>Lenguajes en los que Programo:</h2>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/IBM-006699">
+  <a href="https://"><img alt="Static Badge" src="https://img.shields.io/badge/IBM-006699">
   <img alt="Static Badge" src="https://img.shields.io/badge/IBMRationalDeveloper-4589ff">
   <img alt="Static Badge" src="https://img.shields.io/badge/Cobol-001d6c">
   <img alt="Static Badge" src="https://img.shields.io/badge/AS400-198038">
@@ -19,7 +22,7 @@
 </p>
 
 - 🔭 Actualmente estoy trabajando en [BankVision Software](https://www.bankvision.com) como Ingeniero Semi Senior de Desarrollo BackEnd
-- 🌱 Estoy aprendiendo <a href="https://imgbb.com/"><img src="https://i.ibb.co/G0p6gcW/azure-2021.png" alt="azure-2021" border="0" height=20></a> desde <a href="https://imgbb.com/"><img src="https://i.ibb.co/vBx6Hv1/github.png" alt="github" border="0" height=20></a> y creación de Recursos en <a href="https://imgbb.com/"><img src="https://i.ibb.co/G0p6gcW/azure-2021.png" alt="azure-2021" border="0" height=20> [Azure](https://portal.azure.com/)
+- 🌱 Estoy aprendiendo <a href="https://imgbb.com/"><img src="https://i.ibb.co/G0p6gcW/azure-2021.png" alt="azure-2021" border="0" height=20></a>. despliegues desde <a href="https://imgbb.com/"><img src="https://i.ibb.co/vBx6Hv1/github.png" alt="github" border="0" height=20></a> y creación de Recursos en <a href="https://imgbb.com/"><img src="https://i.ibb.co/G0p6gcW/azure-2021.png" alt="azure-2021" border="0" height=20> [Azure](https://portal.azure.com/)
 - 👯 Estoy colaborando con [TryCatch Factory](https://github.com/Try-Catch-Factory)
 - 💬 Pregúntame sobre **IBM Solutions <a href="https://imgbb.com/"><img src="https://i.ibb.co/hmxH66M/ibm.png" alt="ibm" border="0" height=20></a> and Python <a href="https://imgbb.com/"><img src="https://i.ibb.co/LhcX4wN/python.png" alt="python" border="0" height=20></a>** 
 - 💻 Participante del reto [What The Hack de Microsoft y Código Facilito](https://whatthehack-cf.github.io/WhatTheHack_retos/DevOps-GitHub/) : [Solución](https://jra83containerapp.lemonmeadow-19e94271.westus.azurecontainerapps.io/)
