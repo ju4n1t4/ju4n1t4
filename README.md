@@ -10,13 +10,13 @@
 <p>En mi trayectoria destaco por mi liderazgo y habilidades analíticas, fundamentales para resolver problemas complejos y contribuir al éxito de los proyectos. La colaboración con mi equipo ha permitido entregar productos tecnológicos que generan valor en la industria bancaria. Me motiva ser parte de la evolución digital en el sector financiero y continuar aplicando mi experiencia para enfrentar y superar los desafíos tecnológicos futuros.</p>
 <h2>Lenguajes en los que Programo:</h2>
 <p>
-  <a href="https://"><img alt="Static Badge" src="https://img.shields.io/badge/IBM-006699">
+  <img alt="Static Badge" src="https://img.shields.io/badge/IBM-006699">
   <img alt="Static Badge" src="https://img.shields.io/badge/IBMRationalDeveloper-4589ff">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Cobol-001d6c">
+  <a href="https://www.ibm.com/docs/es/i/7.3?topic=languages-cobol"><img alt="Static Badge" src="https://img.shields.io/badge/Cobol-001d6c">
   <img alt="Static Badge" src="https://img.shields.io/badge/AS400-198038">
   <img alt="Static Badge" src="https://img.shields.io/badge/RPGIV-ada8a8">
-  <img alt="Static Badge" src="https://img.shields.io/badge/RPGLE-00539a">
-  <img alt="Static Badge" src="https://img.shields.io/badge/FreeFormRPG-1192e8">
+  <a href="https://www.ibm.com/docs/es/i/7.5?topic=introduction-rpg-programming-in-ile"><img alt="Static Badge" src="https://img.shields.io/badge/RPGLE-00539a">
+  <a href="https://developer.ibm.com/articles/i-ibmi-rpg-support/"><img alt="Static Badge" src="https://img.shields.io/badge/FreeFormRPG-1192e8">
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
 </p>
