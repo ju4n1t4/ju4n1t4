@@ -1,7 +1,5 @@
 **<h1><a href="https://imgbb.com/"><img src="https://i.ibb.co/nrJDGpT/clapclap-e-1.gif" alt="clapclap-e-1" border="0"></a> </>¡Bienvenid@s a mi Espacio!</> </h1>**
-
-
-
+<a href="https://www.linkedin.com/in/julianaramirezarenas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 <p>Soy Juliana, Semi Senior BackEnd Developer 🇨🇴 nacida en Bucaramanga</p>
 <h3>Lenguajes en los que Programo:</h3>
