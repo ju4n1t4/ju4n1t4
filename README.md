@@ -53,3 +53,19 @@
 <ul>
   <li><a href="https://www.linkedin.com/posts/julianaramirezarenas_ulibro2024-laingenieraedanomuerde-activity-7234197356802420736-r0kA?utm_source=share&utm_medium=member_desktop="><b>La Ingeniería No     Muerde</b></a><br/><i> Historias inspiradoras para triunfar en ingeniería. </i></li>
 </ul>
+
+
+>[!NOTE]
+>Cada línea de código es un paso hacia la innovación. ¡Sigue creando y transformando!
+
+>[!TIP]
+>Utiliza el control de versiones para gestionar tu código. No solo te ayuda a rastrear cambios, sino que también facilita la colaboración y la recuperación de versiones anteriores en caso de errores.
+
+>[!IMPORTANT]
+>Siempre documenta tu código. Una buena documentación no solo facilita la comprensión y el mantenimiento a largo plazo, sino que también ayuda a otros desarrolladores (y a ti mismo en el futuro) a entender rápidamente la lógica y las decisiones detrás de tu implementación.
+
+>[!WARNING]
+>Cuidado con las dependencias externas. Asegúrate de verificar la compatibilidad y la seguridad de cualquier biblioteca o framework que utilices, ya que pueden introducir vulnerabilidades o problemas de rendimiento en tu aplicación.
+
+>[!CAUTION]
+>Ten cuidado al manejar datos sensibles. Siempre utiliza técnicas de cifrado y asegúrate de cumplir con las normativas de protección de datos para evitar filtraciones y problemas legales.
